@@ -21,8 +21,8 @@ A real-time voice assistant capable of conversational interaction in Sinhala. Th
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/Tenura2001/Multilingual-Ai-Voice-Assistant.git
+    
     ```
 
 2.  **Install dependencies:**
